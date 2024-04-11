@@ -15,3 +15,6 @@ Notes about SwiftUI
 - If you don't give default value in @State then be prepared to give values when creating those views
 - to make variable binding add $
 - Cannot make @State variable private in this project because it is being accessed from outside
+
+Resources
+Youtube - Sean Allen
